@@ -1,0 +1,1 @@
+Submission for exercises 2.6. - 2.14. data for countries

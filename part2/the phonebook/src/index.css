@@ -1,0 +1,14 @@
+.notification__container{
+  margin: 1rem 0 1rem 0;
+  z-index: 9999;
+}
+
+.success {
+  border: 1px solid #4caf50;
+  color: #006603;
+}
+
+.error {
+  border: 1px solid #f44336;
+  color: #5a0000;
+}
