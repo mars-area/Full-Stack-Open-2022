@@ -3,5 +3,11 @@ part1/unicafe/node_modules
 part1/anecdotes/node_modules
 
 part2/course information/node_modules
+part2/course information/public
+part2/course information/package-lock.json
 part2/the phonebook/node_modules
+part2/the phonebook/public
+part2/the phonebook/package-lock.json
 part2/data for countries/node_modules
+part2/data for countries/public
+part2/data for countries/package-lock.json
